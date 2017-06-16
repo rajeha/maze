@@ -1,7 +1,7 @@
 ![Alt text](/screenshot/maze.jpg?raw=true "Screenshot")
 ----
-<br>
-###Running <br>
+
+### Running <br>
 Using Ant:
 ```
 $ ant init run
